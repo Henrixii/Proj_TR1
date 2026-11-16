@@ -1,0 +1,7 @@
+# Aparência da interface (tema claro, com a cor do transmissor nos controles)
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+
+[browser]
+gatherUsageStats = false
